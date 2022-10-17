@@ -1,6 +1,6 @@
-## IoT-umbrella-sharing-system
+## IoT-Based-Umbrella-Sharing-System
 
-Implementation of IoT umbrella sharing platform.
+Implementation of IoT-based umbrella sharing platform.
 
 
 ## Requirements
