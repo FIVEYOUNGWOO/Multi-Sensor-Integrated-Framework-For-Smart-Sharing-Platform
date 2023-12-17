@@ -1,4 +1,4 @@
-## IoT-Based-Umbrella-Sharing-System
+## Multi-Sensor-Integrated-Framework-For-Smart-Sharing-Platform
 
 Implementation of IoT-based umbrella sharing platform.
 
@@ -9,3 +9,4 @@ Implementation of IoT-based umbrella sharing platform.
 - (HW) Servo moter
 - (HW) Paper reader
 - (SW) Python
+- (SW) OpenCV
